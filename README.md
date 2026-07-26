@@ -1,5 +1,26 @@
 <!-- veigapunk-upstream-maintainers:start -->
 > **Upstream package maintainer contact(s):** [Christian Muehlhaeuser (`muesli`)](https://github.com/muesli). Declared in the upstream release configuration.
+
+<details><summary>All contributors (16)</summary>
+
+- Christian Muehlhaeuser ([`muesli`](https://github.com/muesli))
+- Ayman Bagabas ([`aymanbagabas`](https://github.com/aymanbagabas))
+- dependabot\[bot\] ([`dependabot[bot]`](https://github.com/dependabot%5Bbot%5D))
+- bashbunni ([`bashbunni`](https://github.com/bashbunni))
+- Carlos Alexandro Becker ([`caarlos0`](https://github.com/caarlos0))
+- Hugo Alliaume ([`Kocal`](https://github.com/Kocal))
+- Simen A\. W\. Olsen ([`simenandre`](https://github.com/simenandre))
+- Alex Ullrich ([`AlexCuse`](https://github.com/AlexCuse))
+- Bjørn Erik Pedersen ([`bep`](https://github.com/bep))
+- CrazyMax ([`crazy-max`](https://github.com/crazy-max))
+- Dakotah Peña ([`dakotahp`](https://github.com/dakotahp))
+- João Pedro Veiga  ([`VeigaPunk`](https://github.com/VeigaPunk))
+- Jürgen Etzlstorfer ([`jetzlstorfer`](https://github.com/jetzlstorfer))
+- Louis Beaumont ([`louis030195`](https://github.com/louis030195))
+- moul ([`moul`](https://github.com/moul))
+- Will Tait ([`wtait1`](https://github.com/wtait1))
+
+</details>
 <!-- veigapunk-upstream-maintainers:end -->
 
 # markscribe
