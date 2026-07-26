@@ -1,3 +1,7 @@
+<!-- veigapunk-upstream-maintainers:start -->
+> **Upstream package maintainer contact(s):** [Christian Muehlhaeuser (`muesli`)](https://github.com/muesli). Declared in the upstream release configuration.
+<!-- veigapunk-upstream-maintainers:end -->
+
 # markscribe
 
 [![Latest Release](https://img.shields.io/github/release/charmbracelet/markscribe.svg)](https://github.com/charmbracelet/markscribe/releases)
